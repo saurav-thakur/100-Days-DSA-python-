@@ -1,9 +1,9 @@
 # 100-Days-of-DSA
  
-I will upload my codes here everyday for next 100 days. And if I solve it on leetcode or gfg or anywhere I will paste the solution here with the link.  My goal is to solve Min 4 questions everyday and max 5 or more if I can. I will solve 20 questions from each topic. Following this there's a list of topics which are written below. I will keep on updating the numbers of problem I have solved.
+I will upload my codes here everyday for next 100 days. And if I solve it on leetcode or gfg or anywhere I will paste the solution here with the link.  My goal is to solve Min 4 questions everyday and max 5 or more if I can. Five Days will be given to each topic. Following this there's a list of topics which are written below. I will keep on updating the numbers of problem I have solved.
 
 # Topics                      
-1. Array ----------------> 13 Done 
+1. Array ----------------> 25 Done 
 2. Stack ---------------->  
 3. Matrix---------------->  
 4. Strings---------------> 
