@@ -11,3 +11,22 @@ class Solution:
         '''
         arr.sort()
         return arr[k-1]
+
+from heapq import heapify,heappop,heappush
+
+def kth_smallest(nums,k):
+
+    heap = []
+    heapify(heap)
+
+    for i in nums:
+        heappush(heap,-1*i)
+
+        if len(heap) > k:
+            heappop(heap)
+
+    return heap[0]*-1
+
+nums = [4,2,1,5,3,7,8,0]
+k = 3
+print(kth_smallest(nums,k))
