@@ -4,9 +4,9 @@ I will upload my codes here everyday for next 100 days. And if I solve it on lee
 
 # Topics                      
 1. Array ----------------> 25 Done 
-2. Stack ---------------->  
+2. Stack ----------------> 5 Done
 3. Matrix---------------->  
-4. Strings---------------> 
+4. Strings---------------> 19 Done
 5. Search and Sort------->
 6. Linked List-----------> 
 7. Recursion-------------> 
@@ -25,5 +25,7 @@ I will upload my codes here everyday for next 100 days. And if I solve it on lee
 # Tutorials
 
 1.) Sanket Singh's Recursion Masterclass - https://www.youtube.com/playlist?list=PLm4khKImW62FkQgzhdCezqzVNP5-vCLNe
+
+
 
 2.) Aditya Verma - https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists
